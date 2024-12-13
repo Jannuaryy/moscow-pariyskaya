@@ -1,2 +1,2 @@
 print('My first git-repo')
-print('')
+print('Print from GitHub')
